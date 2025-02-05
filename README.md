@@ -1,6 +1,6 @@
 # Egui Node Graph 2
 
-This is an up-to-date and maintained fork of setzer22/egui_node_graph, which has been archived. Issues and PRs welcome.
+This is a fork of [trevyn/egui_node_graph2](https://github.com/trevyn/egui_node_graph2) that is going to change the UI and UX to fit my taste.
 
 > There you have it! Now go build your next awesome node graph thing in Rust 🦀
 
@@ -58,5 +58,3 @@ still considered breaking.
 ## Use cases
 
 - The graph user interface of [Blackjack](https://github.com/setzer22/blackjack), a 3d procedural modelling software built in Rust using egui, rend3 and wgpu.
-
-Are you using this crate for something cool? Add yourself to this section by sending a PR!
